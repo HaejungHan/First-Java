@@ -59,7 +59,7 @@ public class Main {
         // 별점 + 퍼센트가 나올 수 있도록 prinln이 아닌 print 로 출력
         System.out.print("별점 : " + intStar);
        // - 바로 뒤에 정수 별점을 5점 만점 퍼센트로 표현했을 때 값을 실수로 출력해 줍니다. (ex. 60.0%)
-        double starPersentage = intStar * (100/5);
+        double starPersentage = intStar * ( 100/ 5 );
         //출력은 두가지 형태로 가능함
         System.out.println(" (" + starPersentage + "%)");
         //- 이어서, 입력한 모든 문장 앞에 번호를 붙여서 모두 출력해 줍니다.
