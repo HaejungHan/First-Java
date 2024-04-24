@@ -1,4 +1,4 @@
-package week02;
+package week02.operator;
 
 import java.util.Objects;
 import java.util.Scanner;
@@ -50,7 +50,7 @@ public class W13 {
 //            System.out.println("A가 이상한 값을 입력했습니다.");
 //        }
 
-        // 연습
+//        // 연습
         Scanner sc = new Scanner(System.in);
 
         // A에게 값 입력받기
